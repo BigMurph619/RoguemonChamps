@@ -1,5 +1,6 @@
 # RoguemonChamps
 A template for storing Roguemon History
 
-## BUG ![Bug56](https://github.com/user-attachments/assets/8c349e11-8384-476c-a688-dd70cf27e673)
+## BUG ![Bug28](https://github.com/user-attachments/assets/b5963fc5-0353-4db5-ac2b-7aa3aa087b7b)
+
 
