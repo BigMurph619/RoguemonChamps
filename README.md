@@ -1,6 +1,6 @@
 # RoguemonChamps
 
-### [BUG](#BUG ![Bug28]) | [DARK](#DARK) | [DRAGON](#DRAGON) | [ELECTRIC](#ELECTRIC) |
+### [BUG](#BUG-![Bug28]) | [DARK](#DARK) | [DRAGON](#DRAGON) | [ELECTRIC](#ELECTRIC) |
 
 ---
 
