@@ -1,9 +1,5 @@
 # RoguemonChamps
 
-### [BUG](#BUG-![Bug28]) | [DARK](#DARK-![Dark28]) | [DRAGON](#DRAGON) | [ELECTRIC](#ELECTRIC) |
-
----
-
 # BUG ![Bug28](https://github.com/user-attachments/assets/b5963fc5-0353-4db5-ac2b-7aa3aa087b7b)
 
 <h2 align="center">PBs</h2>
