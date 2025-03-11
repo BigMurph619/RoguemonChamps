@@ -1,6 +1,6 @@
 # Roguemon PBs
 
-# BUG <img src="![Bug112](https://github.com/user-attachments/assets/948add93-1960-4099-8f5e-c95d22f497dc)" width="28" height="28">
+# BUG <img src="https://github.com/user-attachments/assets/948add93-1960-4099-8f5e-c95d22f497dc" width="28" height="28">
 
 
 <h2 align="center">PBs</h2>
