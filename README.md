@@ -1,9 +1,9 @@
 # RoguemonChamps
 A template for storing Roguemon History
 
-## BUG ![Bug28](https://github.com/user-attachments/assets/b5963fc5-0353-4db5-ac2b-7aa3aa087b7b)
+# BUG ![Bug28](https://github.com/user-attachments/assets/b5963fc5-0353-4db5-ac2b-7aa3aa087b7b)
 
-<h1 align="center">PBs</h1>
+<h2 align="center">PBs</h2>
 
 ASCENSION 1 | ASCENSION 2 | ASCENSION 3
 -|-|-
