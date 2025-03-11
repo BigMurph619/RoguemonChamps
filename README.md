@@ -3,6 +3,11 @@ A template for storing Roguemon History
 
 ## BUG ![Bug28](https://github.com/user-attachments/assets/b5963fc5-0353-4db5-ac2b-7aa3aa087b7b)
 
+<h1 align="center">PBs</h1>
+ASCENSION 1 | ASCENSION 2 | ASCENSION 3
+-|-|-
+A1 PB Image Pasted here. PB text and Attempt Number here. | A2 PB Image Pasted here. PB text and Attempt Number here. | A3 PB Image Pasted here. PB text and Attempt Number here.
+
 ## DARK ![Dark28](https://github.com/user-attachments/assets/babbef5b-512d-492b-a822-731ea7ea1bb3)
 
 ## DRAGON ![Dragon28](https://github.com/user-attachments/assets/60ea4c77-d95e-45ef-8e83-edafcf4ce28f)
