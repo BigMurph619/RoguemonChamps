@@ -9,7 +9,8 @@ ASCENSION 1 | ASCENSION 2 | ASCENSION 3
 -|-|-
 A1 PB Image Pasted here. PB text and Attempt Number here. | A2 PB Image Pasted here. PB text and Attempt Number here. | A3 PB Image Pasted here. PB text and Attempt Number here.
 
-# DARK ![Dark28](https://github.com/user-attachments/assets/babbef5b-512d-492b-a822-731ea7ea1bb3)
+# DARK <img src="https://github.com/user-attachments/assets/bfc3b554-10e4-413c-8c12-b6fa0d83bf1f" width="28" height="28">
+
 
 <h2 align="center">PBs</h2>
 
@@ -17,7 +18,8 @@ ASCENSION 1 | ASCENSION 2 | ASCENSION 3
 -|-|-
 A1 PB Image Pasted here. PB text and Attempt Number here. | A2 PB Image Pasted here. PB text and Attempt Number here. | A3 PB Image Pasted here. PB text and Attempt Number here.
 
-# DRAGON ![Dragon28](https://github.com/user-attachments/assets/60ea4c77-d95e-45ef-8e83-edafcf4ce28f)
+# DRAGON <img src="https://github.com/user-attachments/assets/4dfc06ca-d030-4736-81f1-4fab723f44cc" width="28" height="28">
+
 
 <h2 align="center">PBs</h2>
 
@@ -25,7 +27,8 @@ ASCENSION 1 | ASCENSION 2 | ASCENSION 3
 -|-|-
 A1 PB Image Pasted here. PB text and Attempt Number here. | A2 PB Image Pasted here. PB text and Attempt Number here. | A3 PB Image Pasted here. PB text and Attempt Number here.
 
-# ELECTRIC ![Electric28](https://github.com/user-attachments/assets/82377c4d-bbd7-45d4-9bc5-974e37470b80)
+# ELECTRIC <img src="https://github.com/user-attachments/assets/08737ebc-d6ec-4421-a7bc-c214b56ac783" width="28" height="28">
+
 
 <h2 align="center">PBs</h2>
 
@@ -33,7 +36,8 @@ ASCENSION 1 | ASCENSION 2 | ASCENSION 3
 -|-|-
 A1 PB Image Pasted here. PB text and Attempt Number here. | A2 PB Image Pasted here. PB text and Attempt Number here. | A3 PB Image Pasted here. PB text and Attempt Number here.
 
-# FAIRY ![Fairy28](https://github.com/user-attachments/assets/34699dbf-83f7-43d3-8522-5857def2e0e8)
+# FAIRY <img src="https://github.com/user-attachments/assets/adb23137-2024-4bdb-8739-18619efd9743" width="28" height="28">
+
 
 <h2 align="center">PBs</h2>
 
@@ -41,7 +45,8 @@ ASCENSION 1 | ASCENSION 2 | ASCENSION 3
 -|-|-
 A1 PB Image Pasted here. PB text and Attempt Number here. | A2 PB Image Pasted here. PB text and Attempt Number here. | A3 PB Image Pasted here. PB text and Attempt Number here.
 
-# FIGHTING ![fighting28](https://github.com/user-attachments/assets/59c42579-60ad-450f-aa3e-84d2d1b68e8e)
+# FIGHTING <img src="https://github.com/user-attachments/assets/4059c92e-d5f2-4ea8-bb05-97d6acdc2ebd" width="28" height="28">
+
 
 <h2 align="center">PBs</h2>
 
@@ -49,7 +54,8 @@ ASCENSION 1 | ASCENSION 2 | ASCENSION 3
 -|-|-
 A1 PB Image Pasted here. PB text and Attempt Number here. | A2 PB Image Pasted here. PB text and Attempt Number here. | A3 PB Image Pasted here. PB text and Attempt Number here.
 
-# FIRE ![fire28](https://github.com/user-attachments/assets/3f5a112c-833a-482e-887c-90abd0d423ed)
+# FIRE <img src="https://github.com/user-attachments/assets/503f0f86-1bcf-4e13-b672-73cb90531cf4" width="28" height="28">
+
 
 <h2 align="center">PBs</h2>
 
@@ -57,7 +63,17 @@ ASCENSION 1 | ASCENSION 2 | ASCENSION 3
 -|-|-
 A1 PB Image Pasted here. PB text and Attempt Number here. | A2 PB Image Pasted here. PB text and Attempt Number here. | A3 PB Image Pasted here. PB text and Attempt Number here.
 
-# FLYING ![flying28](https://github.com/user-attachments/assets/0091a78b-c568-4344-8d50-402198d0fc46)
+# FLYING <img src="https://github.com/user-attachments/assets/eb334534-a683-4f51-9078-a478301430f4" width="28" height="28">
+
+
+<h2 align="center">PBs</h2>
+
+ASCENSION 1 | ASCENSION 2 | ASCENSION 3
+-|-|-
+A1 PB Image Pasted here. PB text and Attempt Number here. | A2 PB Image Pasted here. PB text and Attempt Number here. | A3 PB Image Pasted here. PB text and Attempt Number here.
+
+# GHOST <img src="https://github.com/user-attachments/assets/1f2845c7-71b1-452f-9040-2399bdb975d1" width="28" height="28">
+
 
 <h2 align="center">PBs</h2>
 
